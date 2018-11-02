@@ -1,4 +1,4 @@
-#Author = sumeer@unixindia.com
+#Author sumeer@unixindia.com
 
 #include <ESP8266WiFi.h>
 #include "Adafruit_MQTT.h"
